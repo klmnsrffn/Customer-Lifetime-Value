@@ -46,3 +46,20 @@ The insights gained from this project can assist insurance companies in:
 - Optimizing customer lifetime value across different segments.
 
 By leveraging machine learning and interpretability techniques, this repository aims to provide actionable insights that drive business growth and enhance customer satisfaction in the insurance sector.
+
+## requirement
+pip
+jupyter
+db-dtypes
+google-cloud-aiplatform
+google-cloud-bigquery
+google-cloud-storage
+google-auth
+scikit-learn==1.2.2
+setuptools==68.2.2
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.1.4
+matplotlib==3.8.0
+joblib==1.2.0
+threadpoolctl==2.2.0
